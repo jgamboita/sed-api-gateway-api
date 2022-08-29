@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.3</spring-cloud.version>
-		<docker.image.name>126836804918.dkr.ecr.us-east-1.amazonaws.com/aug-api-gateway</docker.image.name>
+		<docker.image.name>jgamboita/sed-api-gateway-api</docker.image.name>
 		<docker.image.version>1.0</docker.image.version>
 		<springdoc.openapi.version>1.6.9</springdoc.openapi.version>
 	</properties>
